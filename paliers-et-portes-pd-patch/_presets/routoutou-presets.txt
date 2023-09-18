@@ -1,0 +1,4 @@
+routing symmetric outputmatrix 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0;
+routing symmetric inputmatrix 1 0 1 0 1 0 0 1 0 1 0 1;
+routing straight outputmatrix 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1;
+routing straight inputmatrix 1 0 0 1 1 0 0 1 1 0 0 1;
